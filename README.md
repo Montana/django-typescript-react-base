@@ -1,6 +1,6 @@
-# Django + Typescript + React base
+# Django + Typescript + React
 
-This base project includes my usual concoction for web apps:
+This base project includes my usual concoction for web apps, but upgraded a bit for some projects I have coming up in August.
 
 * Python 3
 * Django 2.0
