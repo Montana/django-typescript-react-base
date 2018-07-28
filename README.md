@@ -4,7 +4,7 @@ This base project includes my usual concoction for web apps, but upgraded a bit 
 
 * Python 3
 * Django 2.0
-* Typescript + TSLint
+* TypeScript + TSLint
 * React
 * Postgres
 * Virtualenv
