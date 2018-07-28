@@ -1,4 +1,4 @@
-# Django + Typescript + React
+# Django + TypeScript + React
 
 This base project includes my usual concoction for web apps, but upgraded a bit for some projects I have coming up in August.
 
